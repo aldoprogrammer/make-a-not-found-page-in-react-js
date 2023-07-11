@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-I Make this project to learn about React JS. So that later on, I will get used to it. I really hope that I can be a great front - end developer. Then, i have to make myself to learn and not easily to giving up. That's how it's gonna end up. Hopefully that I can make my dream comes true.
+I Make this project to learn about React JS. So that later on, I will get used to it. I really hope that I can be a great front - end developer. Then, i have to make myself to learn and not easily to giving up. That's how it's gonna end up. Hopefully that I can make my dream comes true. Even that I just learn it by myself alone.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

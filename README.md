@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-I learn about pages here. So that will .ake me know about path. Then, I know how to direct them. even that they typed any wrong path, it will returm to blank page.
+I learn about pages here. So that will .ake me know about path. Then, I know how to direct them. even that they typed any wrong path, it will returm to blank page. Even yhis is just for the concept.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
